@@ -1,6 +1,6 @@
 flask_ec2
 =========
 
-Ansible playbook for installion of Flask on EC2.
+Nginx, uWSGI and Supervisor conf for flask installtion on EC2.
 
-Includes conf files for Nginx, uWSGI and Supervisor.
+requirement.txt for pip installtion of package necessary for flask installtion.
